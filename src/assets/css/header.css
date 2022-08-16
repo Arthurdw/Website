@@ -1,12 +1,67 @@
 header {
+  position: fixed;
   background-color: #073b4c;
+  width: 100%;
+  padding: 1rem 0 0 0;
 }
-header div img {
+header > div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 90%;
+  margin: 0 auto;
+}
+header > div a {
+  display: flex;
+  align-items: center;
+}
+header > div a img {
   width: 6.5rem;
   height: 6.5rem;
   background-color: #052c39;
   padding: 0.313rem;
   border-radius: 50%;
+  margin-right: 2.5rem;
+}
+header > div nav ul {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+header > div nav ul li:first-child {
+  margin-right: 2.5rem;
+}
+header > div nav ul a {
+  text-transform: uppercase;
+}
+header > img {
+  position: absolute;
+  overflow-x: hidden;
+  z-index: -1;
+  top: 5.5rem;
+  left: -1rem;
+  width: calc(100vw + 2rem);
+  max-width: calc(100vw + 2rem);
+}
+@media (min-width: 69rem) and (max-width: 94rem) {
+  header > img {
+    top: 6.5rem;
+  }
+}
+@media (min-width: 35rem) and (max-width: 68rem) {
+  header > img {
+    top: 7.5rem;
+  }
+}
+@media (max-width: 35rem) {
+  header > img {
+    top: 8rem;
+  }
+}
+header a {
+  color: #ffffff;
 }
 
 /*# sourceMappingURL=header.css.map */

@@ -5,6 +5,10 @@
     src: url("../fonts/ReadexPro-Medium.ttf");
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: "ReadexPro Arial Sans", sans-serif;
 
