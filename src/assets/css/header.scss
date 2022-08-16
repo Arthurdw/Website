@@ -1,0 +1,17 @@
+@import "style";
+
+header {
+    background-color: $dark;
+
+    div {
+        img {
+            width: 6.5rem;
+            height: 6.5rem;
+
+            background-color: $super_dark;
+            padding: 0.313rem;
+
+            border-radius: 50%;
+        }
+    }
+}

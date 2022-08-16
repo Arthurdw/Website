@@ -3,6 +3,25 @@
     <head>
         <meta charset="UTF-8" />
         <title>Arthur De Witte - Software Engineer</title>
+
+        <link
+            rel="stylesheet"
+            href="./assets/css/reset.css"
+            type="text/css"
+            media="all"
+        />
+        <link
+            rel="stylesheet"
+            href="./assets/css/general.css"
+            type="text/css"
+            media="all"
+        />
+        <link
+            rel="stylesheet"
+            href="./assets/css/header.css"
+            type="text/css"
+            media="all"
+        />
     </head>
     <body>
         <header>
@@ -20,7 +39,7 @@
                     <li><a href="#contact" title="Contact me!">Contact</a></li>
                 </ul>
             </nav>
-            <img src="./images/waves/header.svg" alt="" />
+            <img class="drop-filter" src="./images/waves/header.svg" alt="" />
         </header>
         <main>
             <section id="intro">
@@ -33,14 +52,14 @@
                 </p>
 
                 <div>
-                    <a href="#projects" title="Go to my projects!">Projects</a>
-                    <a href="#contact" title="Contact me!">Contact</a>
+                    <a class="drop" href="#projects" title="Go to my projects!">Projects</a>
+                    <a class="drop" href="#contact" title="Contact me!">Contact</a>
                 </div>
             </section>
 
             <section id="projects">
                 <h2>Popular Projects</h2>
-                <article id="pincer">
+                <article id="pincer" class="drop">
                     <img
                         src="./images/banners/pincer.svg"
                         alt="The Pincer project!"
@@ -77,7 +96,7 @@
                         View Project
                     </a>
                 </article>
-                <article id="firefly">
+                <article id="firefly" class="drop">
                     <img
                         src="./images/banners/firefly.svg"
                         alt="The firefly project!"
@@ -147,7 +166,7 @@
                             <a href="./privacy" title="My privacy policy">Privacy Policy</a>
                         </label>
                     </div>
-                    <button type="submit">Send message</button>
+                    <button class="drop" type="submit">Send message</button>
                 </form>
             </section>
         </main>

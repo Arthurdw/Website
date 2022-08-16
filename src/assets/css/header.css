@@ -1,0 +1,12 @@
+header {
+  background-color: #073b4c;
+}
+header div img {
+  width: 6.5rem;
+  height: 6.5rem;
+  background-color: #052c39;
+  padding: 0.313rem;
+  border-radius: 50%;
+}
+
+/*# sourceMappingURL=header.css.map */
