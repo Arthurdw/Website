@@ -20,13 +20,14 @@
                     <li><a href="#contact" title="Contact me!">Contact</a></li>
                 </ul>
             </nav>
+            <img src="./images/waves/header.svg" alt="" />
         </header>
         <main>
             <section id="intro">
                 <h2>Arthur De Witte</h2>
                 <h1>Freelance Software Engineer</h1>
                 <p>
-                    I’m a passionate 19 year old student studying Computer Science at
+                    I’m a passionate 19-year-old student studying Computer Science at
                     HOWEST <span class="italic">(specialisation Software Engineer)</span>.
                     Writing proper, clean and stable code is the goal of every project!
                 </p>
@@ -97,9 +98,10 @@
                         </a>
                     </div>
                     <p>
-                        Learning rust, I wanted to make something I could actually use. I
-                        was always interested on how databases work. So was Firefly born, a
-                        minimal (7mb) CLI app, with no bloated features.
+                        Because I’m learning rust, I wanted to make an app in rust that I
+                        could actually use. I wanted something simple to be able to store my
+                        session tokens, but it also had to be performant. So Firefly was
+                        born, a 7mb DB.
                     </p>
                     <a
                         href="https://github.com/Arthurdw/firefly"
@@ -116,8 +118,89 @@
                         <label for="bot-field">Field for bad spam bots:</label>
                         <input type="text" name="bot-field" id="bot-field" />
                     </p>
+                    <div class="v-split">
+                        <div>
+                            <label for="firstname">First name:</label>
+                            <input type="text" name="firstname" id="firstname" />
+                        </div>
+                        <div>
+                            <label for="lastname">Last name:</label>
+                            <input type="text" name="lastname" id="lastname" />
+                        </div>
+                    </div>
+                    <div>
+                        <label for="email">Email address:</label>
+                        <input type="email" name="email" id="email" />
+                    </div>
+                    <div>
+                        <label for="subject">Subject:</label>
+                        <input type="text" name="subject" id="subject" />
+                    </div>
+                    <div>
+                        <label for="message">Message:</label>
+                        <textarea name="message" id="message" rows="10"></textarea>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="privacy" id="privacy" />
+                        <label for="privacy">
+                            I have read and agree with the
+                            <a href="./privacy" title="My privacy policy">Privacy Policy</a>
+                        </label>
+                    </div>
+                    <button type="submit">Send message</button>
                 </form>
             </section>
         </main>
+        <footer>
+            <img src="./images/waves/footer.svg" alt="" />
+            <ul>
+                <li>
+                    <a href="https://www.xiler.net" title="Go to Xiler.">
+                        <img
+                            src="./images/icons/Xiler"
+                            alt="Go to Xiler."
+                            title="Go to Xiler."
+                        />
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/arthurdw" title="Visit my GitHub page!">
+                        <img
+                            src="./images/icons/Github.svg"
+                            alt="Visit my GitHub page!"
+                            title="Visit my GitHub page!"
+                        />
+                    </a>
+                </li>
+                <li>
+                    <a href="https://dc.arthurdw.com/" title="Visit my Discord page!">
+                        <img
+                            src="./images/icons/Discord.svg"
+                            alt="Visit my Discord page!"
+                            title="Visit my Discord page!"
+                        />
+                    </a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/arthurdw" title="Visit my Twitter page!">
+                        <img
+                            src="./images/icons/Twitter.svg"
+                            alt="Visit my Twitter page!"
+                            title="Visit my Twitter page!"
+                        />
+                    </a>
+                </li>
+                <li>
+                    <a href="mailto:contact@arthurdw.com" title="Mail me!">
+                        <img
+                            src="./images/icons/Mail.svg"
+                            alt="Mail me!"
+                            title="Mail me!"
+                        />
+                    </a>
+                </li>
+            </ul>
+            <h5>&copy; Arthurdw | All rights reserved.</h5>
+        </footer>
     </body>
 </html>
