@@ -51,7 +51,7 @@ main {
             display: flex;
             justify-content: center;
 
-            @media (max-width: 38rem) {
+            @media (max-width: 610px) {
                 flex-direction: column;
 
                 a {
@@ -79,7 +79,7 @@ main {
                     color: $bright;
                     background-color: $accent;
 
-                    @media (min-width: 38.01rem) {
+                    @media (min-width: 801px) {
                         margin-right: 2.5rem;
                     }
 
@@ -107,11 +107,11 @@ main {
 
             margin: 0 auto;
 
-            @media (max-width: 87.5rem) {
+            @media (max-width: 1400px) {
                 justify-content: space-between;
             }
 
-            @media (max-width: 50rem) {
+            @media (max-width: 800px) {
                 flex-direction: column;
             }
         }
@@ -126,7 +126,7 @@ main {
             border-radius: 0.5rem;
             overflow: hidden;
 
-            @media (max-width: 50rem) {
+            @media (max-width: 800px) {
                 max-width: 100%;
                 width: 100%;
 
@@ -207,7 +207,7 @@ main {
             }
         }
 
-        @media (min-width: 38rem) {
+        @media (min-width: 610px) {
             .v-split {
                 display: flex;
                 justify-content: space-between;
