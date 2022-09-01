@@ -7,6 +7,7 @@
 
 html {
     scroll-behavior: smooth;
+    scroll-snap-type: y;
 }
 
 body {
@@ -31,6 +32,7 @@ a:hover {
 img {
     max-width: 100%;
     max-height: 100%;
+    user-select: none;
 }
 
 .hidden {
