@@ -13,8 +13,12 @@ main h2 {
 main section {
   padding-top: 30vh;
 }
+main section > h2 {
+  text-transform: uppercase;
+}
 main #intro h2 {
   margin-bottom: 1rem;
+  text-transform: none;
 }
 main #intro p {
   text-align: center;
@@ -26,14 +30,15 @@ main #intro div {
   justify-content: center;
 }
 main #intro div a {
-  margin-top: 1rem;
+  margin-top: 2rem;
   display: block;
+  font-weight: 700;
   text-align: center;
   font-size: 2rem;
   width: 16.875rem;
   height: 4.125rem;
   line-height: 4.125rem;
-  border-radius: 1.125rem;
+  border-radius: 0.5rem;
   text-transform: uppercase;
 }
 main #intro div a:first-child {
@@ -52,6 +57,59 @@ main #intro div a:last-child:hover {
   color: #073b4c;
 }
 main #intro div a:hover {
+  opacity: 0.8;
+}
+main #projects > div {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 auto;
+}
+@media (max-width: 87.5rem) {
+  main #projects > div {
+    justify-content: space-between;
+  }
+}
+main #projects article {
+  width: 37.5vw;
+  max-width: 32rem;
+  display: inline-block;
+  background-color: #031f28;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+main #projects article > img {
+  background-color: #052c39;
+  border-radius: 0.5rem;
+}
+main #projects article > img,
+main #projects article > div > div,
+main #projects article > div > a {
+  margin-bottom: 2rem;
+}
+main #projects article > div {
+  max-width: 80%;
+  margin: 0 auto;
+}
+main #projects article > div p {
+  margin-bottom: 1rem;
+}
+main #projects article > div div {
+  display: flex;
+  justify-content: space-between;
+}
+main #projects article > div > a {
+  display: block;
+  background-color: #00bfb2;
+  color: #031f28;
+  text-transform: uppercase;
+  border-radius: 0.5rem;
+  text-align: center;
+  padding: 0.5rem;
+}
+main #projects article a {
+  transition: opacity 0.2s ease;
+}
+main #projects article a:hover {
   opacity: 0.8;
 }
 
