@@ -198,6 +198,7 @@ main #contact form button {
   padding: 0.5rem 0;
   width: calc(50% - 1rem);
   font-size: 1.5rem;
+  cursor: pointer;
 }
 @media screen and (max-width: 610px) {
   main #contact form button {
