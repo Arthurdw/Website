@@ -199,5 +199,10 @@ main #contact form button {
   width: calc(50% - 1rem);
   font-size: 1.5rem;
 }
+@media screen and (max-width: 610px) {
+  main #contact form button {
+    width: 100%;
+  }
+}
 
 /*# sourceMappingURL=main.css.map */
