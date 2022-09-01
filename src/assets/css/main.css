@@ -39,7 +39,7 @@ main #intro div {
   display: flex;
   justify-content: center;
 }
-@media (max-width: 610px) {
+@media screen and (max-width: 610px) {
   main #intro div {
     flex-direction: column;
   }
@@ -64,7 +64,7 @@ main #intro div a:first-child {
   color: #ffffff;
   background-color: #f24333;
 }
-@media (min-width: 801px) {
+@media screen and (min-width: 611px) {
   main #intro div a:first-child {
     margin-right: 2.5rem;
   }
@@ -84,12 +84,12 @@ main #projects > div {
   justify-content: space-evenly;
   margin: 0 auto;
 }
-@media (max-width: 1400px) {
+@media screen and (max-width: 1400px) {
   main #projects > div {
     justify-content: space-between;
   }
 }
-@media (max-width: 800px) {
+@media screen and (max-width: 800px) {
   main #projects > div {
     flex-direction: column;
   }
@@ -102,7 +102,7 @@ main #projects article {
   border-radius: 0.5rem;
   overflow: hidden;
 }
-@media (max-width: 800px) {
+@media screen and (max-width: 800px) {
   main #projects article {
     max-width: 100%;
     width: 100%;
@@ -166,7 +166,7 @@ main #contact form div:not(.no-block) textarea {
   resize: none;
   height: 16.5rem;
 }
-@media (min-width: 610px) {
+@media screen and (min-width: 610px) {
   main #contact form .v-split {
     display: flex;
     justify-content: space-between;
