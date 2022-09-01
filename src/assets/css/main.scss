@@ -51,6 +51,15 @@ main {
             display: flex;
             justify-content: center;
 
+            @media (max-width: 38rem) {
+                flex-direction: column;
+
+                a {
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+            }
+
             a {
                 margin-top: 2rem;
                 display: block;
@@ -68,8 +77,11 @@ main {
 
                 &:first-child {
                     color: $bright;
-                    margin-right: 2.5rem;
                     background-color: $accent;
+
+                    @media (min-width: 38.01rem) {
+                        margin-right: 2.5rem;
+                    }
 
                     &:hover {
                         color: $bright;
@@ -98,6 +110,10 @@ main {
             @media (max-width: 87.5rem) {
                 justify-content: space-between;
             }
+
+            @media (max-width: 50rem) {
+                flex-direction: column;
+            }
         }
 
         article {
@@ -109,6 +125,15 @@ main {
 
             border-radius: 0.5rem;
             overflow: hidden;
+
+            @media (max-width: 50rem) {
+                max-width: 100%;
+                width: 100%;
+
+                &:not(:first-of-type) {
+                    margin-top: 2rem;
+                }
+            }
 
             > img {
                 background-color: $super_dark;
@@ -148,6 +173,9 @@ main {
     }
 
     #contact form {
+        max-width: 50rem;
+        margin: 0 auto;
+
         div:not(.no-block) {
             > * {
                 display: block;
@@ -179,12 +207,14 @@ main {
             }
         }
 
-        .v-split {
-            display: flex;
-            justify-content: space-between;
+        @media (min-width: 38rem) {
+            .v-split {
+                display: flex;
+                justify-content: space-between;
 
-            > div {
-                width: calc(50% - 1rem);
+                > div {
+                    width: calc(50% - 1rem);
+                }
             }
         }
 

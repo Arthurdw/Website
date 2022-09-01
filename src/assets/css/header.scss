@@ -15,6 +15,14 @@ header {
         max-width: 90%;
         margin: 0 auto;
 
+        @media (max-width: 38rem) {
+            flex-direction: column;
+
+            nav {
+                margin-top: 1.5rem;
+            }
+        }
+
         a {
             display: flex;
             align-items: center;
@@ -65,11 +73,11 @@ header {
             top: 6.5rem;
         }
 
-        @media (min-width: 35rem) and (max-width: 68rem) {
+        @media (min-width: 38rem) and (max-width: 68rem) {
             top: 7.5rem;
         }
-        @media (max-width: 35rem) {
-            top: 8rem;
+        @media (max-width: 38rem) {
+            top: 12rem;
         }
     }
 

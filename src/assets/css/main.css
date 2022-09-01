@@ -40,6 +40,15 @@ main #intro div {
   display: flex;
   justify-content: center;
 }
+@media (max-width: 38rem) {
+  main #intro div {
+    flex-direction: column;
+  }
+  main #intro div a {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
 main #intro div a {
   margin-top: 2rem;
   display: block;
@@ -54,8 +63,12 @@ main #intro div a {
 }
 main #intro div a:first-child {
   color: #ffffff;
-  margin-right: 2.5rem;
   background-color: #f24333;
+}
+@media (min-width: 38.01rem) {
+  main #intro div a:first-child {
+    margin-right: 2.5rem;
+  }
 }
 main #intro div a:first-child:hover {
   color: #ffffff;
@@ -77,6 +90,11 @@ main #projects > div {
     justify-content: space-between;
   }
 }
+@media (max-width: 50rem) {
+  main #projects > div {
+    flex-direction: column;
+  }
+}
 main #projects article {
   width: 37.5vw;
   max-width: 32rem;
@@ -84,6 +102,15 @@ main #projects article {
   background-color: #031f28;
   border-radius: 0.5rem;
   overflow: hidden;
+}
+@media (max-width: 50rem) {
+  main #projects article {
+    max-width: 100%;
+    width: 100%;
+  }
+  main #projects article:not(:first-of-type) {
+    margin-top: 2rem;
+  }
 }
 main #projects article > img {
   background-color: #052c39;
@@ -114,6 +141,10 @@ main #projects article > div > a {
   text-align: center;
   padding: 0.5rem;
 }
+main #contact form {
+  max-width: 50rem;
+  margin: 0 auto;
+}
 main #contact form div:not(.no-block) > * {
   display: block;
   width: 100%;
@@ -136,12 +167,14 @@ main #contact form div:not(.no-block) textarea {
   resize: none;
   height: 16.5rem;
 }
-main #contact form .v-split {
-  display: flex;
-  justify-content: space-between;
-}
-main #contact form .v-split > div {
-  width: calc(50% - 1rem);
+@media (min-width: 38rem) {
+  main #contact form .v-split {
+    display: flex;
+    justify-content: space-between;
+  }
+  main #contact form .v-split > div {
+    width: calc(50% - 1rem);
+  }
 }
 main #contact form .no-block {
   margin: 0.7rem 0;

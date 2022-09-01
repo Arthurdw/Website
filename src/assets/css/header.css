@@ -13,6 +13,14 @@ header > div {
   max-width: 90%;
   margin: 0 auto;
 }
+@media (max-width: 38rem) {
+  header > div {
+    flex-direction: column;
+  }
+  header > div nav {
+    margin-top: 1.5rem;
+  }
+}
 header > div a {
   display: flex;
   align-items: center;
@@ -52,14 +60,14 @@ header > img {
     top: 6.5rem;
   }
 }
-@media (min-width: 35rem) and (max-width: 68rem) {
+@media (min-width: 38rem) and (max-width: 68rem) {
   header > img {
     top: 7.5rem;
   }
 }
-@media (max-width: 35rem) {
+@media (max-width: 38rem) {
   header > img {
-    top: 8rem;
+    top: 12rem;
   }
 }
 header a {
