@@ -94,6 +94,9 @@ main #projects > div {
     flex-direction: column;
   }
 }
+main #projects > div:not(:first-of-type) {
+  margin-top: 5rem;
+}
 main #projects article {
   width: 37.5vw;
   max-width: 32rem;
