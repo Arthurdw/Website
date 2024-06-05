@@ -4,7 +4,9 @@ portfolio: true
 layout: BlogHome
 icon: home
 title: Home
-heroImage: ./logo.svg
+# heroImage: ./logo.svg
+# bgImage: https://source.unsplash.com/1600x900/?nature,water
+bgImage: ./assets/images/hero.webp
 heroText: Arthur De Witte
 tagline: Bring Your Dream Project to Life with Expertise and Professionalism!
 heroFullScreen: true

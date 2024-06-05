@@ -11,8 +11,6 @@ tag:
   - Web32
   - Taxes
   - Crypto
-sticky: true
-star: true
 ---
 
 whadup

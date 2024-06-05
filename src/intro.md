@@ -1,6 +1,9 @@
 ---
 title: About me
 icon: circle-info
+
+sticky: true
+star: true
 ---
 
 # Intro Page
