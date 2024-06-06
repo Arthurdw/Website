@@ -53,7 +53,7 @@ export default hopeTheme({
       // Instagram: "https://example.com",
       // Lark: "https://example.com",
       // Lines: "https://example.com",
-      Linkedin: "https://www.linkedin.com/in/arthur-de-witte-b232a51b5/",
+      Linkedin: "https://www.linkedin.com/in/arthur-de-witte/",
       // Pinterest: "https://example.com",
       // Pocket: "https://example.com",
       // QQ: "https://example.com",
