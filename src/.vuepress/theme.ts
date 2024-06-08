@@ -12,7 +12,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/assets/images/me.jpg",
+  logo: "/assets/images/me.webp",
 
   repo: "arthurdw",
 

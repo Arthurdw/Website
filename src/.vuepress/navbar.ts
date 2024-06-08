@@ -4,9 +4,8 @@ export default navbar([
   "/",
   "/intro",
   {
-    text: "Posts",
+    link: "/posts/",
     icon: "pen-to-square",
-    prefix: "/posts/",
-    children: ["web32"],
+    text: "Posts",
   },
 ]);
