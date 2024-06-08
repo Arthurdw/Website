@@ -10,6 +10,10 @@ star: true
 
 Hello there, I'm Arthur. I'm a 20-year-old Freelance Software Engineering student at HOWEST University of Applied Sciences. I have a passion for building solutions for problems I encounter online. Currently, I'm deeply interested in low-level programming with Rust and DevOps with Docker, Terraform, and Ansible.
 
+## Where to Find Me Next 🌍
+
+I'm always excited to connect with like-minded individuals and share knowledge. My next stop will be at FlutterCon Europe in Berlin, where I'll be from the 2nd to the 5th of July, 2024. If you're planning to attend, I'd love to meet up and chat about all things tech!
+
 ## Current Stack 🛠️
 
 Here's a list of technologies I'm currently using, ordered from most important:
