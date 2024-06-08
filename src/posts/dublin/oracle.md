@@ -9,11 +9,12 @@ tag:
   - Oracle
   - Dublin
 cover: /assets/images/posts/dublin/oracle.webp
+star: true
 ---
 
 # Visiting Oracle in Dublin
 
-Our trip with HOWEST to Dublin started with a visit to [Oracle](https://www.oracle.com/), one of the leading technology companies in the world. Despite the rainy welcome by the Dublin weather, our spirits remained undampened.
+Our trip with HOWEST to Dublin started with a visit to [Oracle](https://www.oracle.com/), one of the leading technology companies in the world. Despite the rainy welcome by the Dublin weather, our spirits remained undamped.
 
 At Oracle, we were given an overview of the company, its mission, and its operations. It was fascinating to learn about the scale at which Oracle operates and the diverse range of services it offers.
 

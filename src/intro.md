@@ -6,6 +6,6 @@ sticky: true
 star: true
 ---
 
-# Intro Page
+Hello there, I'm Arthur. A 20-year-old Freelance Software Engineering student at HOWEST University of Applied Sciences. I like to build solutions for problems I have/encounter online.
 
-Place your introduction and profile here.
+Currently interested in low level programming with Rust.

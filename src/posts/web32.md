@@ -15,10 +15,10 @@ tag:
 cover: /assets/images/posts/w32-cover.webp
 ---
 
-# The future of decentralisation and web3
+# The future of decentralization and web3
 
 Every year there is a conference called [Web32] in Belgium. This year _(2023)_  
-it was in Antwerpen on september 27'th. The conference attempts to provide
+it was in Antwerp on september 27'th. The conference attempts to provide
 peek insights and inspiration about the future of Web3 projects.
 
 As a students of HOWEST, we we able to get discounted tickets which were
