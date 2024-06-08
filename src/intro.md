@@ -6,9 +6,9 @@ sticky: true
 star: true
 ---
 
-# Welcome! 👋
+## Welcome! 👋
 
-Hello there, I'm Arthur. I'm a 20-year-old Freelance Software Engineering student at HOWEST University of Applied Sciences. I have a passion for building solutions for problems I encounter online. Currently, I'm deeply interested in low-level programming with Rust.
+Hello there, I'm Arthur. I'm a 20-year-old Freelance Software Engineering student at HOWEST University of Applied Sciences. I have a passion for building solutions for problems I encounter online. Currently, I'm deeply interested in low-level programming with Rust and DevOps with Docker, Terraform, and Ansible.
 
 ## Current Stack 🛠️
 
