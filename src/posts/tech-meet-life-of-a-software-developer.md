@@ -10,7 +10,7 @@ category:
 tag:
     - Sweet Mustard
     - VRT Max
-cover: /assets/images/posts/tech-meet-software-development.webp
+cover: /assets/images/posts/in-the-life-of-a-software-developer.webp
 ---
 Last week, I had the privilege of attending a tech meet where [Michael Seghers](https://www.linkedin.com/in/mikeseghers/), the founder of Sweet Mustard and Team Lead of VRT Max, was the keynote speaker.
 
