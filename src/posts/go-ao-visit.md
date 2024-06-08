@@ -6,7 +6,7 @@ category:
   - School
   - Visit
 tag:
-  - Howest
+  - HOWEST
   - GO-AO
 cover: /assets/images/posts/go-ao.webp
 ---

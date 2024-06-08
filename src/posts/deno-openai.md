@@ -7,7 +7,7 @@ category:
   - AI
   - Event
 tag:
-  - Howest
+  - HOWEST
   - OpenAI
   - Automation
   - Web Development
