@@ -9,7 +9,7 @@ tag:
   - HOWEST
   - Google
   - Dublin
-cover: /assets/images/posts/dublin-google.webp
+cover: /assets/images/posts/dublin/google.webp
 ---
 
 On the final day of the HOWEST Dublin week, we had the privilege of visiting [Google](https://www.google.com)'s Dublin site. 
@@ -22,8 +22,8 @@ In addition to the technical insights, I had the chance to converse with some of
 
 As our visit to Google came to a close, so did our Dublin week. We left the Google site with a deeper understanding of the tech giant and a sense of excitement about the possibilities in the tech world. The flight back to Belgium was filled with reflections on our enriching experiences in Dublin.
 
-![Our wing when flying back to Belgium](/assets/images/posts/dublin-return-home.webp)
+![Our wing when flying back to Belgium](/assets/images/posts/dublin/return-home.webp)
 
 The HOWEST Dublin week was a journey of learning, exploration, and fun. As we look forward to our next adventure, we carry with us the memories and knowledge from our visits to [Oracle](./oracle.md), [Microsoft](./microsoft.md), [Meta](./meta.md), and Google.
 
-![Group Picture at Google](/assets/images/posts/dublin-google-1.webp)
+![Group Picture at Google](/assets/images/posts/dublin/google-1.webp)

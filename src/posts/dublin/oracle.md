@@ -8,7 +8,7 @@ tag:
   - HOWEST
   - Oracle
   - Dublin
-cover: /assets/images/posts/dublin-oracle.webp
+cover: /assets/images/posts/dublin/oracle.webp
 ---
 
 # Visiting Oracle in Dublin
@@ -21,4 +21,4 @@ The highlight of the visit was a workshop where we were tasked with finding a so
 
 Despite the weather, our visit to Oracle was an enriching experience that gave us valuable insights into the tech industry. We look forward to more such visits in the future.
 
-![Group Picture at Oracle](/assets/images/posts/dublin-oracle-1.webp)
+![Group Picture at Oracle](/assets/images/posts/dublin/oracle-1.webp)
