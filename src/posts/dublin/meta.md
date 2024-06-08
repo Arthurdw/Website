@@ -3,13 +3,13 @@ title: A Quick Visit to Meta in Dublin
 author: Arthur De Witte
 date: 2024-02-08
 category:
+  - English
   - Technology
 tag:
   - HOWEST
   - Meta
   - Dublin
 cover: /assets/images/posts/dublin/meta.webp
-star: true
 ---
 
 On Thursday, we had the opportunity to visit [Meta](https://www.meta.com)'s new office in Dublin. Despite the visit being relatively short, it was packed with excitement and fun.

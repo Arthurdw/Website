@@ -3,6 +3,7 @@ title: I went back to visit my high school
 author: Arthur De Witte
 date: 2023-02-28
 category:
+  - English
   - School
   - Visit
 tag:

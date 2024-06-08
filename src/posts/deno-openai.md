@@ -3,6 +3,7 @@ title: OpenAI API and Deno Event
 author: Arthur De Witte
 date: 2023-12-19
 category:
+  - English
   - School
   - AI
   - Event

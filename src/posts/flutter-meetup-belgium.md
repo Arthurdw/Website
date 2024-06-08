@@ -3,6 +3,7 @@ title: My Experience at the Flutter Meetup Belgium 2024
 author: Arthur De Witte
 date: 2024-05-15
 category:
+    - English
     - School
     - Event
     - Technology

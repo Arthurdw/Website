@@ -3,6 +3,7 @@ title: Mijn Ervaring bij de Afstudeerbeurs
 author: Arthur De Witte
 date: 2024-03-28
 category:
+    - Nederlands
     - School
     - Event
 tag:

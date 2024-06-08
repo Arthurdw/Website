@@ -3,6 +3,7 @@ title: Wrapping Up HOWEST's Dublin Week with Google
 author: Arthur De Witte
 date: 2024-02-09
 category:
+  - English
   - Technology
   - AI
 tag:
@@ -10,7 +11,6 @@ tag:
   - Google
   - Dublin
 cover: /assets/images/posts/dublin/google.webp
-star: true
 ---
 
 On the final day of the HOWEST Dublin week, we had the privilege of visiting [Google](https://www.google.com)'s Dublin site. 

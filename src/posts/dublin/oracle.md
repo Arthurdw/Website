@@ -3,13 +3,13 @@ title: Visiting Oracle in Dublin
 author: Arthur De Witte
 date: 2024-02-06
 category:
+  - English
   - Technology
 tag:
   - HOWEST
   - Oracle
   - Dublin
 cover: /assets/images/posts/dublin/oracle.webp
-star: true
 ---
 
 # Visiting Oracle in Dublin

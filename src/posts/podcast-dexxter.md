@@ -3,6 +3,7 @@ title: Dexxter's IT-Startup Succes
 author: Arthur De Witte
 date: 2024-05-29
 category:
+    - Nederlands
     - Technology
     - Business
     - Podcast

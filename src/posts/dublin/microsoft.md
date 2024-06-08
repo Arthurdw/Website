@@ -3,6 +3,7 @@ title: Visiting Microsoft in Dublin
 author: Arthur De Witte
 date: 2024-02-06
 category:
+  - English
   - Technology
   - AI
   - Cloud
@@ -12,7 +13,6 @@ tag:
   - Microsoft
   - Dublin
 cover: /assets/images/posts/dublin/microsoft.webp
-star: true
 ---
 
 After an insightful morning at [Oracle](https://www.oracle.com) *(see [the Oracle blog post](./oracle.md))*, our HOWEST group made our way to our second visit of the day - [Microsoft](https://www.microsoft.com) in Dublin. 

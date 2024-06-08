@@ -3,6 +3,7 @@ title: "Tech Meet Insights: A Journey Through Software Development with Michael 
 author: Arthur De Witte
 date: 2024-05-29
 category:
+    - English
     - Event
     - Technology
     - Software Development

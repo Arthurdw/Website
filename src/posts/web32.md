@@ -3,6 +3,7 @@ title: Web32 Convention
 author: Arthur De Witte
 date: 2023-09-27
 category:
+  - English
   - Technology
   - Web3
   - Blockchain
