@@ -19,7 +19,7 @@ I'm always excited to connect with like-minded individuals and share knowledge. 
 Here's a list of technologies I'm currently using, ordered from most important:
 
 1. Rust (with libraries like tokio, axum, poem-openapi)
-2. TypeScript (primarily with Svelte & SvelteKit)
+2. TypeScript (primarily with Vue (& Nuxt), Svelte (& SvelteKit))
 3. SCSS
 4. Neovim & Neovide, Jetbrains IDE's with VIM bindings
 5. Unix (You can see my configuration in my .dotfiles repository)
