@@ -8,7 +8,7 @@ star: true
 
 ## Welcome! 👋
 
-Hello there, I'm Arthur. I'm a 20-year-old Freelance Software Engineering student at HOWEST University of Applied Sciences. I have a passion for building solutions for problems I encounter online. Currently, I'm deeply interested in low-level programming with Rust and DevOps with Docker, Terraform, and Ansible.
+Hello there, I'm Arthur. I'm a 21-year-old Freelance Software Engineering student at HOWEST University of Applied Sciences. I have a passion for building solutions for problems I encounter online. Currently, I'm deeply interested in low-level programming with Rust and DevOps with Docker, Terraform, and Ansible.
 
 ## Current Stack 🛠️
 
@@ -50,4 +50,3 @@ I've written a comprehensive whitepaper on web solutions, where I delve into an 
 ## Contact Me 📫
 
 Feel free to reach out to me on Discord ([arthur_dw](https://discord.com/users/232182858251239424)) or email me at [contact@arthurdw.com](mailto:contact@arthurdw.com).
-
