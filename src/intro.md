@@ -8,7 +8,9 @@ star: true
 
 ## Welcome! 👋
 
-Hello there, I'm Arthur. I'm a 21-year-old Freelance Software Engineering student at HOWEST University of Applied Sciences. I have a passion for building solutions for problems I encounter online. Currently, I'm deeply interested in low-level programming with Rust and DevOps with Docker, Terraform, and Ansible.
+Hello, I'm Arthur, a 21-year-old freelance Computer Science student at VUB. I hold a Bachelor's degree in Applied Computer Science with a specialization in Software Engineering from HOWEST University of Applied Sciences, where I graduated magna cum laude. I enjoy creating solutions for the problems I encounter online.
+
+Currently, I'm deeply interested in low-level programming with Rust and DevOps with Docker, Terraform, and Ansible.
 
 ## Current Stack 🛠️
 
