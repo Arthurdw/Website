@@ -33,7 +33,7 @@ export default hopeTheme({
   },
 
   blog: {
-    description: "A Computer Science student and Freelance Software Engineer",
+    description: "Freelance Software Engineer",
     intro: "/intro.html",
     medias: {
       // Baidu: "https://example.com",
