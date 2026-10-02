@@ -1,0 +1,40 @@
+# Arthur De Witte (Arthurdw)
+
+> Personal website and blog of Arthur De Witte, a full-stack freelance software engineer from Belgium. He holds a Bachelor's degree in Applied Computer Science (Software Engineering) from HOWEST University of Applied Sciences, graduated magna cum laude, and works mainly with Rust, TypeScript (Vue/Nuxt, Svelte/SvelteKit) and DevOps tooling (Docker, Terraform, Ansible).
+
+The blog covers events, conferences, company visits and projects from his studies and career. Most posts are in English; posts marked (Dutch) are written in Dutch.
+
+## About
+
+- [About me](https://arthurdw.com/intro.html): Background, current tech stack, notable projects (Pincer, Firefly, Xiler DNS, IrefIndex), whitepaper and contact details
+
+## Contact
+
+- [Email](mailto:contact@arthurdw.com): contact@arthurdw.com
+- [GitHub](https://github.com/arthurdw): Open source projects
+- [LinkedIn](https://www.linkedin.com/in/arthur-de-witte/)
+- [Discord](https://dc.arthurdw.com)
+
+## Blog posts
+
+- [Fluttercon Europe 2024 - Berlin](https://arthurdw.com/posts/fluttercon-2024.html): Three days of talks and workshops at FlutterCon Europe 2024 (2024-07-05)
+- [Creating a personal website and blog with VuePress](https://arthurdw.com/posts/creating-website-2024.html): Why and how this website was built with VuePress and VuePress Theme Hope (2024-06-08)
+- [Dexxter's IT-Startup Succes](https://arthurdw.com/posts/podcast-dexxter.html): HOWEST Student Podcast episode with Dexxter co-founder Stan de Pauw (Dutch, 2024-05-29)
+- [Tech Meet Insights: A Journey Through Software Development with Michael Seghers](https://arthurdw.com/posts/tech-meet-life-of-a-software-developer.html): Takeaways from a talk on the full software development flow (2024-05-29)
+- [My Experience at the Flutter Meetup Belgium 2024](https://arthurdw.com/posts/flutter-meetup-belgium.html): Flutter Belgium meetup at HOWEST (2024-05-15)
+- [Mijn Ervaring bij de Afstudeerbeurs](https://arthurdw.com/posts/afstudeerbeurs.html): Graduation fair and the decision to pursue a master's in Computer Science (Dutch, 2024-03-28)
+- [My Experience at the Cyber Security Challenge Belgium 2024](https://arthurdw.com/posts/csbe2024.html): Third participation in the CSBE capture the flag competition (2024-03-08)
+- [Wrapping Up HOWEST's Dublin Week with Google](https://arthurdw.com/posts/dublin/google.html): Visit to Google's Dublin site (2024-02-09)
+- [A Quick Visit to Meta in Dublin](https://arthurdw.com/posts/dublin/meta.html): Visit to Meta's new Dublin office (2024-02-08)
+- [Visiting Microsoft in Dublin](https://arthurdw.com/posts/dublin/microsoft.html): Talks on AI, security and Azure at Microsoft Dublin (2024-02-06)
+- [Visiting Oracle in Dublin](https://arthurdw.com/posts/dublin/oracle.html): Company overview and resilience workshop at Oracle Dublin (2024-02-06)
+- [OpenAI API and Deno Event](https://arthurdw.com/posts/deno-openai.html): Consuming the OpenAI API with Deno (2023-12-19)
+- [Web32 Convention](https://arthurdw.com/posts/web32.html): Web3 and decentralization conference in Antwerp (2023-09-27)
+- [I went back to visit my high school](https://arthurdw.com/posts/go-ao-visit.html): Informing high school students about Applied Computer Science at HOWEST (2023-02-28)
+
+## Optional
+
+- [Bachelor dissertation](https://github.com/Arthurdw/bachelor-dissertation/blob/main/main.pdf): Comparative whitepaper on React, Vue, Svelte, Angular, Lit and Hilla
+- [Pincer](https://github.com/Pincer-org/Pincer): Python library for Discord
+- [Firefly](https://github.com/Arthurdw/firefly): Lightweight Rust database with a custom TCP protocol
+- [Xiler DNS](https://github.com/XilerNet/dns): Decentralized DNS server built on Bitcoin ordinals
